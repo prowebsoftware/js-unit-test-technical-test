@@ -1,0 +1,13 @@
+{
+  "name": "js-unit-test-technical-test",
+  "version": "0.0.1",
+  "description": "JS Unit Tests",
+  "keywords": [],
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "24.8.0"
+  },
+  "scripts": {
+    "test": "jest --verbose --watch"
+  }
+}
